@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Lies & Slander!
 
-You can use the [editor on GitHub](https://github.com/MortBlox/liesandslander/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here we share **lies** and **slander** about people!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit die in *Minecraft*, we burn your house.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -23,8 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Minecraft actually hacked no vuris no hack](https://www.minecraft.net/), [among us not hack](https://github.com/shlifedev/AmongUsMemory) and *picture of epic*. ![picture.picture](https://cdn.wccftech.com/wp-content/uploads/2015/03/photo.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
